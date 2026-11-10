@@ -1,11 +1,13 @@
 <div align="center" id="top">
 
-<img src="profile-banner.svg" alt="Andrés Daniel Medina Erazo — Systems Engineering student at Universidad del Cauca" width="100%" />
+<img src="profile-banner-ink-v2.png" alt="Original black-and-white manga-inspired illustration with an orchid, circuit details, and subtle red accents" width="100%" />
 
-<br />
+<h1>ANDRÉS DANIEL MEDINA ERAZO</h1>
 
-<a href="https://www.linkedin.com/in/daniel-medina-463301296/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/DANIELMEDINA0408?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-183B35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<p><samp>SYSTEMS ENGINEERING · UNIVERSIDAD DEL CAUCA · POPAYÁN, COLOMBIA</samp></p>
+
+<a href="https://www.linkedin.com/in/daniel-medina-463301296/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-A42A31?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/DANIELMEDINA0408?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-252525?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 
 <br />
 
@@ -59,17 +61,17 @@ An academic appointment management system. Working on the project helped me prac
 <h2 id="toolkit">Toolkit I have worked with</h2>
 
 **Interfaces and apps**<br />
-<img src="https://img.shields.io/badge/TypeScript-143B35?style=flat-square&logo=typescript&logoColor=9DE2CB" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React_Native-143B35?style=flat-square&logo=react&logoColor=9DE2CB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-143B35?style=flat-square&logo=expo&logoColor=9DE2CB" alt="Expo" />
-<img src="https://img.shields.io/badge/React-143B35?style=flat-square&logo=react&logoColor=9DE2CB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-252525?style=flat-square&logo=typescript&logoColor=F2F0EB" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React_Native-252525?style=flat-square&logo=react&logoColor=F2F0EB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-252525?style=flat-square&logo=expo&logoColor=F2F0EB" alt="Expo" />
+<img src="https://img.shields.io/badge/React-252525?style=flat-square&logo=react&logoColor=F2F0EB" alt="React" />
 
 **Services, data, and collaboration**<br />
-<img src="https://img.shields.io/badge/NestJS-143B35?style=flat-square&logo=nestjs&logoColor=9DE2CB" alt="NestJS" />
-<img src="https://img.shields.io/badge/PostgreSQL-143B35?style=flat-square&logo=postgresql&logoColor=9DE2CB" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Meteor-143B35?style=flat-square&logo=meteor&logoColor=9DE2CB" alt="Meteor" />
-<img src="https://img.shields.io/badge/Git-143B35?style=flat-square&logo=git&logoColor=9DE2CB" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-143B35?style=flat-square&logo=docker&logoColor=9DE2CB" alt="Docker" />
+<img src="https://img.shields.io/badge/NestJS-252525?style=flat-square&logo=nestjs&logoColor=F2F0EB" alt="NestJS" />
+<img src="https://img.shields.io/badge/PostgreSQL-252525?style=flat-square&logo=postgresql&logoColor=F2F0EB" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Meteor-252525?style=flat-square&logo=meteor&logoColor=F2F0EB" alt="Meteor" />
+<img src="https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=F2F0EB" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-252525?style=flat-square&logo=docker&logoColor=F2F0EB" alt="Docker" />
 
 <h2 id="exploring">Currently exploring</h2>
 
